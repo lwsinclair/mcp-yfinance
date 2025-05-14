@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/9nate-drake-mcp-yfinance-badge.png)](https://mseep.ai/app/9nate-drake-mcp-yfinance)
+
 # yfinance MCP Server
 
 A Model Context Protocol server that provides financial data to Claude Desktop using yfinance (Yahoo Finance api).
